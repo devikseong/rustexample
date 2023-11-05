@@ -19,5 +19,6 @@ fn main() {
         Ordering::Equal => println!("Equal"),
     }
 
+
     println!("you guessed {}", guess)
 }
